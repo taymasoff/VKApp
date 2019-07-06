@@ -24,7 +24,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         configureRealm()
         
         FirebaseApp.configure()
-        GADMobileAds.configure(withApplicationID: "ca-app-pub-3940256099942544~1458002511")
+        //GADMobileAds.configure(withApplicationID: "ca-app-pub-3940256099942544~1458002511")
+        GADMobileAds.sharedInstance().start(completionHandler: nil)
         
         return true
     }

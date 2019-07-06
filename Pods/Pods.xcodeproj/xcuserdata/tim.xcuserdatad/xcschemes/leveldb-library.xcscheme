@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4F5E7C621A9D556005E5298CB2CB14F2"
+               BlueprintIdentifier = "BA18CC549B4AEEBC6DA2806E52640859"
                BuildableName = "leveldb.framework"
                BlueprintName = "leveldb-library"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4F5E7C621A9D556005E5298CB2CB14F2"
+            BlueprintIdentifier = "BA18CC549B4AEEBC6DA2806E52640859"
             BuildableName = "leveldb.framework"
             BlueprintName = "leveldb-library"
             ReferencedContainer = "container:Pods.xcodeproj">
